@@ -1,0 +1,115 @@
+/* @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext'); */
+
+.App-header {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:#282c34;
+}
+
+.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+  display: flex;
+  flex-direction: column !important;
+  flex-wrap: wrap;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  max-width: 450px;
+  text-align: center;
+  margin: 5% 5% 5% 5% !important
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  margin: 3% !important
+}
+
+.css-1mcnwpj-MuiList-root {
+  max-width: 180px !important;
+}
+
+.cards-shower {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.cards-details {
+  margin-right: 0.25%;
+  height: 300px;
+  width: 300px;
+}
+
+.homeLayout {
+  display: flex;
+}
+
+.css-o69gx8-MuiCardMedia-root {
+   height: 120px;
+   object-fit: scale-down !important;
+}
+
+.css-46bh2p-MuiCardContent-root {
+  padding: 10px !important;
+}
+
+.about-us{
+    margin: 10% 5% 10% 10%
+}
+
+.css-h93ljk-MuiTypography-root {
+  white-space: nowrap; 
+  width: 230px; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.css-1t6e9jv-MuiCardActions-root {
+  margin-left: 150px
+}
+
+.topnav-buttons:hover {
+  background-color: white !important;
+  color: #1976D2 !important;
+}
+
+.buttons:hover {
+  background-color: #1976D2 !important;
+  color: white !important;
+}
+
+.sell-item-page {
+  align-items: center;
+  margin: 5% 0% 0% 10%!important
+}
+
+.submit-btn {
+  margin: 0% 30% 10% 20% !important
+}
+
+.home-title {
+  display: flex;
+  flex-direction: row;
+}
+
+.select{
+  margin-left: 68% !important;
+  margin-bottom: 5%;
+}
+
+.price-discount {
+display: flex;
+flex-direction: row;
+}
+
+.badge {
+  margin-left: 10%
+}
+
+.prod-name {
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
